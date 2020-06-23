@@ -1,0 +1,2 @@
+rootProject.name='Korona Güncel Veriler'
+include ':app'

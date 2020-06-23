@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="50"
+        android:textColor="@color/customTextColor"
+        android:layout_marginTop="10dp"
+        android:textSize="24sp"
+        android:fontFamily="@font/bebas"
+        android:text="TARİH"></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="25"
+        android:textColor="@color/customTextColor"
+        android:layout_marginTop="10dp"
+        android:textSize="24sp"
+        android:fontFamily="@font/bebas"
+        android:text="VAKA"></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="25"
+        android:textColor="@color/customTextColor"
+        android:layout_marginTop="10dp"
+        android:textSize="24sp"
+        android:fontFamily="@font/bebas"
+        android:text="ÖLÜM"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="25"
+        android:textColor="@color/customTextColor"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/bebas"
+        android:textSize="24sp"
+        android:text="TEDAVİ"></TextView>
+
+</LinearLayout>

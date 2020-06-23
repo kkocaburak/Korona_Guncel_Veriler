@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+    <solid
+        android:color="#101820"
+        />
+    <size
+        android:width="40dp"
+        android:height="10dp"
+        />
+
+    <corners
+        android:radius="4dp"
+        ></corners>
+
+</shape>
+
+<!--
+android:color="#1D1B1B"
+F4A950
+161B21
+101820
+132226
+270101
+04060F
+212027
+-->

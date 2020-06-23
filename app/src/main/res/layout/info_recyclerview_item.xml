@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp">
+
+    <TextView
+        android:id="@+id/info_item_tarih_textview"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="2020-3-22"
+        android:textColor="@color/customTextColor"
+        android:fontFamily="@font/bebas"
+        android:textSize="30sp"></TextView>
+
+    <TextView
+        android:id="@+id/info_item_vaka_textview"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="1236"
+        android:textColor="@color/customTextColor"
+        android:fontFamily="@font/bebas"
+        android:textSize="30sp"></TextView>
+
+    <TextView
+        android:id="@+id/info_item_olum_textview"
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="30"
+        android:textColor="@color/customTextColor"
+        android:fontFamily="@font/bebas"
+        android:textSize="30sp"></TextView>
+
+    <TextView
+        android:id="@+id/info_item_tedavi_textview"
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="0"
+        android:textColor="@color/customTextColor"
+        android:fontFamily="@font/bebas"
+        android:textSize="30sp"></TextView>
+
+</LinearLayout>
